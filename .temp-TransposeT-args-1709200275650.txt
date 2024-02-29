@@ -1,0 +1,9 @@
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-p
+"F:\\Download\\microservice\\Transposition\\bin;F:\\Download\\gson-2.10.1.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+-m
+Transposition/com.transpose.TransposeTest
+/input.json
